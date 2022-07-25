@@ -1,0 +1,40 @@
+#paragraf3{
+    background-color: blueviolet;
+}
+#paragraf2{
+    background-color: crimson;
+}
+.ortak{
+    background-color: burlywood;
+}
+
+#id3{
+    background-color: purple;
+    border: 5px solid red;
+    padding: 20px;
+    margin: 10px 50px 100px 50px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: yellow;
+    border-radius: 50px;
+    
+}
+
+/*universal selector!!
+yoruma alma= ctrl+ö veya ctrl+k+c
+
+*{
+    margin: 0;
+    padding: 0;
+}
+*/
+
+.container{
+    border: 2px solid red;
+    padding: 20px;
+}
+
+#last{
+    background-color: orange;
+    padding: inherit;
+}
